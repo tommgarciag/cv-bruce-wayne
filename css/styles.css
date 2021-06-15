@@ -1,0 +1,94 @@
+/* reset */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/* header styles */
+
+header {    
+    background-color: #E5E5E5;   
+    text-align: center;    
+}
+
+header img {
+    margin: 2rem 0;
+}
+
+header h1 {
+    background-color:#C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 35px;    
+    letter-spacing: 10px;
+    padding: 10px;    
+}
+
+/* main styles */
+
+main {
+    margin: 5rem 0;
+}
+
+.datos-personales span {
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+section {
+    width: 70%;
+    margin: 2rem auto;
+    font-size: 15px;
+}
+
+section h2 {
+    background-color:#C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;    
+    font-size: 20px;  
+    letter-spacing: 10px;
+    padding: 5px;
+    text-transform: uppercase;
+         
+}
+
+section ul {
+    margin: 1rem 0;
+}
+
+section ul li {
+    margin: 0.5rem 0;
+}
+
+.sin-punto {    
+    list-style: none;
+}
+
+.margen {    
+    margin-left: 74px;
+}
+
+/* footer styles */
+
+footer {
+    background-color: #005677;
+    color: #ffff;    
+    font-weight: 700;
+    font-size: 20px;   
+    text-align: center;
+}
+
+footer p {
+    padding: 20px;
+}
+
+footer span {
+    margin-left: 30px;   
+}
+
+footer span img {
+    margin-bottom: -3px;   
+}
