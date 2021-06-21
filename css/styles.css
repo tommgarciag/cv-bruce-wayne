@@ -28,7 +28,7 @@ header h1 {
 
 /* main styles */
 
-main {
+main {    
     margin: 5rem 0;
 }
 
@@ -41,7 +41,7 @@ main {
 section {
     width: 70%;
     margin: 2rem auto;
-    font-size: 15px;
+    font-size: 17px;
 }
 
 section h2 {
@@ -68,7 +68,7 @@ section ul li {
 }
 
 .margen {    
-    margin-left: 74px;
+    margin-left: 83px;
 }
 
 /* footer styles */
@@ -77,18 +77,13 @@ footer {
     background-color: #005677;
     color: #ffff;    
     font-weight: 700;
-    font-size: 20px;   
+    font-size: 24px;   
     text-align: center;
+    padding: 10px;
 }
 
-footer p {
-    padding: 20px;
-}
-
-footer span {
-    margin-left: 30px;   
-}
-
-footer span img {
-    margin-bottom: -3px;   
+footer a {
+    color: #ffff;
+    text-decoration: none;  
+    margin: 0 10px;
 }
